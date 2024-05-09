@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "Chef_Picture": "https://tds-images.thedailystar.net/sites/default/files/styles/very_big_1/public/feature/images/siddika_kabir.jpg",
+      "Chef_Name": "Siddika Kabir",
+      "Years_of_experience": 15,
+      "Numbers_of_recipes": 150,
+      "Likes": 5000,
+      "Bio": "Siddiqua Kabir was a Bangladeshi nutritionist, academic, cookbook author, and cooking show television host. A professor, Kabir hosted, and guest starred in numerous television shows featuring Bangladeshi cuisine, including Siddiqua Kabir's Recipe on NTV Bangla"
+    },
+    {
+      "id": 2,
+      "Chef_Picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tony_Khan.jpg/220px-Tony_Khan.jpg",
+      "Chef_Name": "Tony Khan",
+      "Years_of_experience": 8,
+      "Numbers_of_recipes": 120,
+      "Likes": 4500,
+      "Bio": "Tony Alal Karim Khan is a Bangladeshi chef and hotelier. He has received awards and nominations as a chef. He has appeared as a celebrity cook on television shows. He is previously general manager and director of food and beverages, executive chef for Grand Sultan Tea Resort and Golf since 2013."
+    },
+    {
+      "id": 3,
+      "Chef_Picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg",
+      "Chef_Name": " Ahmed Hossain",
+      "Years_of_experience": 10,
+      "Numbers_of_recipes": 200,
+      "Likes": 6000,
+      "Bio": "Ahmed Hossain, As a Hospitality Professional with an efficacious career spanning over 42 years and capable professional cooking with a real passion for preparing popular, healthy and nutritious meals. Now, working as the Director, F & B at Dhaka Regency Hotel and Resort. For this wonderful profession, I traveled through many travelers’ destination places and work famous hotels of the world. Presently I am enriching hospitality industry with my expertise on Commercial Kitchen Planning and Recipes Creation, Food Blogging, judging on Ethnic Food programs, Restaurant Consultant and Guest Lecturer of numerous Hotel Management Universities and a Researcher."
+    },
+    {
+      "id": 4,
+      "Chef_Picture": "https://media.licdn.com/dms/image/C5603AQGAM681T9XGsw/profile-displayphoto-shrink_800_800/0/1517490217358?e=2147483647&v=beta&t=7ubJqbMPM51CZ6UAh0n3s1ghWisMbfNfPOXUpnUvfsc",
+      "Chef_Name": "Tommy Miah",
+      "Years_of_experience": 6,
+      "Numbers_of_recipes": 100,
+      "Likes": 4000,
+      "Bio": "Mohammad Ajman Miah, MBE FRSA, better known by his nick name Tommy Miah, is a Bangladeshi-born British chef, owner of the Raj Restaurant and founder of the International Indian Chef of the Year Competition. He is often recognised as the Curry King in Britain"
+    },
+    {
+      "id": 5,
+      "Chef_Picture": "https://m.media-amazon.com/images/M/MV5BNGE2NmIyYmMtMDFlOS00ZmZjLTg4MmItYjYyZWVhYWJlNmY5XkEyXkFqcGdeQXVyNDI3NjcxMDA@._V1_FMjpg_UX1000_.jpg",
+      "Chef_Name": "Keka Ferdousi",
+      "Years_of_experience": 12,
+      "Numbers_of_recipes": 180,
+      "Likes": 5500,
+      "Bio": "Keka Ferdousi is a Bangladeshi television chef and author.Ferdousi's first appearance on television was on Shykh Seraj's BTV show Mati O Manush in 1994, where she presented a mushroom recipe. Ferdousi has since appeared in various cooking shows. She has also written multiple cookbooks and judged cooking programs in Bangladesh as well as abroad. She is currently the president of the Bangladesh Cooking Association and runs the cooking school Keka Ferdousir Rannaghar"
+    },
+    {
+      "id": 6,
+      "Chef_Picture": "https://www.bproperty.com/blog/wp-content/uploads/alpana-habib-0-01.jpg",
+      "Chef_Name": "Alpana Habib",
+      "Years_of_experience": 9,
+      "Numbers_of_recipes": 130,
+      "Likes": 4800,
+      "Bio": "Alpana Habib is a Bangladeshi cook expert and cookbook writer.Though she is a cook expert, she has worked in Thai Airlines and Singapore Airlines. She started cooking when she was in Class Six. She has run a cook school. Her cooking programs were broadcast by Desh TV, NTV, ATN Bangla and Deepto TV too. She opened her YouTube channel in 2012. Her cooking videos are viewed more than 200 million times. She also worked as a judge of Teer Little Chef in Duronto TV."
+    }
+  ]
+  
