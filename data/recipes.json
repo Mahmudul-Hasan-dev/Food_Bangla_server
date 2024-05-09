@@ -1,0 +1,41 @@
+[
+    
+      {
+        "id": 1,
+        "recipe_name": "Shorshe Ilish",
+        "ingredients": ["Hilsa fish", "Mustard paste", "Turmeric powder", "Green chilies", "Mustard oil", "Salt"],
+        "cooking_method": "Marinate Hilsa fish in mustard paste, turmeric, salt, and green chilies. Cook in mustard oil until done.",
+        "rating": 4.9,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawKEoskt0tlOItk1pLB4tosMhvD5L3wwIhg0ngqwEd25Qcp-_AOTbb7tXIzOJqOGTjlY&usqp=CAU"
+      },
+      {
+        "id": 2,
+        "recipe_name": "Bhuna Khichuri",
+        "ingredients": ["Rice", "Lentils", "Onions", "Ginger", "Garlic", "Spices"],
+        "cooking_method": "Cook rice and lentils together. Separately, fry onions, ginger, garlic, and spices. Mix everything together.",
+        "rating": 4.1,
+        "image":"https://foodvillageuae.com/cdn/shop/products/K_0065_BhunaKhichuri_960x.jpg?v=1592166417"
+      },
+      {
+        "id": 3,
+        "recipe_name": "Biryani",
+        "ingredients": ["Basmati rice", "Chicken", "Yogurt", "Onions", "Tomatoes", "Spices"],
+        "cooking_method": "Cook rice and chicken separately, then layer them with fried onions, tomatoes, and spices. Steam to perfection.",
+        "rating": 4.5,
+        "image":"https://www.foodandwine.com/thmb/QRYKO8zoBeWhLCvkxuTgOo8zu0s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chicken-Biryani-FT-RECIPE0823-9d51c6e665ec4c9daa45162841e2f034.jpg"
+      },
+     
+      {
+        "id": 4,
+        "recipe_name": "Mishti Doi",
+        "ingredients": ["Milk", "Sugar", "Yogurt culture"],
+        "cooking_method": "Boil milk, add sugar, cool it down, mix with yogurt culture, and keep it for fermentation.",
+        "rating": 4.6,
+        "image":"https://bakewithshivesh.com/wp-content/uploads/2023/04/mishti-doi-scaled.jpg"
+      }
+     
+      
+      
+      
+      
+]
