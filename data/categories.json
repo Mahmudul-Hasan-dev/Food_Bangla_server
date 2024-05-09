@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "image": "https://thatix.progressionstudios.com/wp-content/uploads/elementor/thumbs/appetizer-bruschetta-with-tuna-and-tomatoes-LKA5ZYU-omrs5xf57sxyshxatiz4bs2j8hwz32ddausyxvcdr4.jpg",
+        "category_name": "Appetizers"
+      },
+      {
+        "id": 2,
+        "image": "https://thatix.progressionstudios.com/wp-content/uploads/elementor/thumbs/baked-chicken-breast-9C4F43W-omrrd1tn91eu3rvdg1lqq2eq8c90ltq8nx9y5u5sww.jpg",
+        "category_name": "Non-Veg"
+      },
+      {
+        "id": 3,
+        "image": "https://thatix.progressionstudios.com/wp-content/uploads/elementor/thumbs/cooked-vegetables-according-to-chinese-recipe-PN2GKUB-omrff2jgxcsv5cfw86lk4kjvmzkfiaqk7pxv13p38g.jpg",
+        "category_name": "Vegetarian"
+      },
+      
+      {
+        "id": 4,
+        "image": "https://thatix.progressionstudios.com/wp-content/uploads/elementor/thumbs/pecan-pie-tart-in-baking-dish-traditional-festive-9WMXQ3Z-omrtq2c5dlsg64dt0sj08m3kex84sb89opewqs3y5c.jpg",
+        "category_name": "Desserts"
+      }
+]
